@@ -1,10 +1,11 @@
 # `potyk-pub`
 
->Share any md
+> Share any md
 
 ## How to use
 
 - Place `.md` into `docs/blog/posts`
+    - https://github.com/potykion/potyk-pub/tree/master/docs/blog/posts
 - Setup frontmatter w required `date` prop:
 
 ```
