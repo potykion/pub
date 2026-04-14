@@ -1,5 +1,8 @@
 # `potyk-pub`
 
+- https://potyk.io/pub/blog/
+- https://github.com/potykion/pub
+
 > Share any md
 
 ## How to use
