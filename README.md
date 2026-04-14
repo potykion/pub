@@ -21,5 +21,3 @@ date: 2024-01-31
     - https://potyk.io/pub/blog/
     - `https://potyk.io/pub/blog/<yyyy>/<mm>/<dd>/<page>`
     - Example: https://potyk.io/pub/blog/2026/04/14/sample/
-
-## Shared pages
